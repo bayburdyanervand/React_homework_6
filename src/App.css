@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  width: 1700px;
+  margin: 0 auto;
+  background-color: lightblue;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.cars-block{
+  text-align: start;
+}
+
+input{
+  margin: 0 20px;
+}
+.wrapper{
+  width: 800px;
+  border: 1px solid red;
+  margin: 0 auto;
+}
+
+.tabl{
+  border-style: dashed;
+}
+td{
+  width: 200px;
+}
